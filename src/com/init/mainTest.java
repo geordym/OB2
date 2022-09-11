@@ -30,7 +30,7 @@ public class mainTest {
 		
 		
 		for(int numerofor = 0; numerofor <= 3; numerofor++) {
-			System.out.println("numerofor");
+			System.out.println("numerofor " + numerofor);
 		}	
 		
 		String estacion = "";
